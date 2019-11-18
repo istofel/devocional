@@ -1,0 +1,18 @@
+Content-Type: application/rss+xml
+    ...
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Para que Senhor?</title>
+      <link>https://developer.amazon.com/public/community/blog</link>
+      <pubDate>2019-11-18T00:00:00.0Z</pubDate>
+      <description>
+        Lembra-te da tua congregação, que adquiriste desde a antiguidade, que remiste para ser a tribo da tua herança; lembra-te do monte Sião, no qual tens habitado. Tendo por base a trágica experiência do cativeiro babilônico e da destruição do templo em 586 a.C., este salmo relata a súplica por ajuda do povo enquanto nação, e as condições caóticas, e a confiança de sua esperança, observem, por exemplo, a atitude do povo ao clamar pela intervenção do Senhor e ao mesmo tempo chamando-o como testemunha ocular da atitude dos inimigos que arrasaram a cidade de Jerusalém, nesse caso o salmista se questiona o porque de tudo aquilo. Na verdade o salmista compreendeu que a atitude do inimigo em destruir e arrasar aquele ambiente sagrado tinha como objetivo destruir também a do povo de Deus, entretanto, a fé que o Espírito Santo deposita em nossos corações, tem a capacidade de superar tudo, inclusive as agressões sofridas e, o exemplo máximo é o próprio Senhor Jesus Cristo que sofreu o que sofreu em favor de Seu povo e de Suas ovelhas. Você é capaz de compreender isso, é capaz de avaliar a dura realidade pelas lentes da fé? Ele está a par de tudo e tem a resposta certa para cada detalhe que envolve o Seu povo. Nele podemos antecipar o glorioso Dia. A Ele toda honra, glória e louvor.Amém! Tenham todos um excelente dia sob a graça do Bom Deus. Reverendo Niobey Ayer - Capelão Militar Evangélico RR. Igreja Presbiteriana Bethesda: Uma Comunidade Acolhedora.
+      </description>
+     </item>
+  </channel>
+</rss>
